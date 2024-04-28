@@ -1,6 +1,5 @@
 # GLOBIPEDI
 
-![GLOBIPEDI Logo](https://lh3.googleusercontent.com/p/AF1QipPqNMtDJm4o0V4pJaoKTRzxYSYEpxYC5h3SIiM=s680-w680-h510)
 
 GLOBIPEDI, çok yönlü bir yazılım, teknoloji ve tasarım şirketidir. Amacımız, yenilikçi teknoloji ve yaratıcı tasarımı bir araya getirerek müşterilerimize benzersiz ve etkileyici çözümler sunmaktır.
 
